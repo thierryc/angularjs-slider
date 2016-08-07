@@ -1,3 +1,13 @@
+## AngularJS slider 
+
+Inspired by the **Prajwal Manjunath** version:
+ 
+Slider directive implementation for AngularJS, without jQuery dependencies http://prajwalkman.github.io/angular-slider
+
+Froked from the **Rafal Zajac** version and **Valentin Hervieu**: 
+
+https://github.com/angular-slider/angularjs-slider
+
 ## AngularJS slider directive with no external dependencies
 
 Status:
